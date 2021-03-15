@@ -3,8 +3,7 @@
 # print(a)
 # b=[4**i for i in range(8)]
 # print(b)
-# lista_c=[1,2,3,4,5,6,7,8,9,10]
-# c=[x for x in lista_c if x % 2 == 0]
+# c=[x for x in b if x % 2 == 0]
 # print(c)
 # zad2
 # lista=[]
